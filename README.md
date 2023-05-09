@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joacoox
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning programmation on the utn
+- 🌱I'm learning to program on the UTN
 - 📫 How to reach me tw https://twitter.com/Joaconazi
 
 <!---
