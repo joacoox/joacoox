@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joacoox
 - 👀 I’m interested in web development 
-- 🌱I'm learning to code on the UTN
+- 🌱I'm learning to code in the UTN
 
 <!---
 joacoox/joacoox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
