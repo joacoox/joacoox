@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Views
 
-<img src="https://komarev.com/ghpvc/?username=Milagros-Luna&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=joacoox&style=flat-square&color=blue" alt=""/>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilagrosLuna&show_icons=true&theme=radical&locale=en&layout=compact" alt="MilagrosLuna" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacoox&show_icons=true&theme=radical&locale=en&layout=compact" alt="joacoox" />
 </p>
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MilagrosLuna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=joacoox&theme=radical&no-frame=false&no-bg=true&margin-w=4)
